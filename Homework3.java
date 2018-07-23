@@ -5,7 +5,7 @@ public class Homework3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int high=5;
-		int middle=3;
+		int middle=6;
 		int low=7;
 		
 		if(high<middle&&high<low) {
