@@ -1,0 +1,14 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "클리어 유저 : 2018011923" )
+	call Preload( "Code : Sr-eRJ-7p " )
+	call Preload( "클리어 횟수 : 26" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "원랜디 카페 : http://cafe.naver.com/clanopcr" )
+	call Preload( "도트짤의 카페 : http://cafe.naver.com/dtzrpg" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
